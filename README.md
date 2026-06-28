@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tech-aj99/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tech-aj99/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
