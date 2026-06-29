@@ -1,27 +1,20 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        sort(arr.begin(), arr.end());
+        unordered_map<int, int> mp;   // store -> frequency
+        unordered_set<int> s;         // store unique frequencies
 
-        unordered_set<int> s;
-        int count = 1;
-
-        for(int i=1;i<arr.size();i++){
-            if(arr[i] == arr[i-1]){
-                count++;
-            }
-            else{
-                // check if frequesncy already exists
-                if(s.find(count) != s.end()){  
-                    return false;
-                }
-                s.insert(count);
-                count = 1;
-            }
+        // count frequency of each number
+        for(int x : arr){
+            mp[x]++;
         }
-        // check frequency of last element
-        if(s.find(count) != s.end()){
-            return false;
+
+        // check if any frequencies repeats
+        for(auto it : mp){
+            if(s.count(it.second)){      // Frequency already exists
+                return false;
+            }
+            s.insert(it.second);         // Store new frequency
         }
         return true;
     }
