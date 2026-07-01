@@ -5,10 +5,10 @@ public:
         // count losses
         for(int i=0;i<matches.size();i++){
             int winner = matches[i][0];
-            int losser = matches[i][1];
+            int loser = matches[i][1];
 
-            mp[winner] += 0;
-            mp[losser]++;
+            mp[winner] += 0;    // add winner with zero losses if not present
+            mp[loser]++;       // increase losers loss count
         }
 
         vector<int> zeroloss;
