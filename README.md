@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/tech-aj99/Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tech-aj99/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
