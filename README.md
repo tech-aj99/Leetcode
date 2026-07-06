@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tech-aj99/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/tech-aj99/Leetcode/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tech-aj99/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/tech-aj99/Leetcode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/tech-aj99/Leetcode/tree/master/0859-buddy-strings) |
