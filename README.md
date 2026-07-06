@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/tech-aj99/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tech-aj99/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/tech-aj99/Leetcode/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/tech-aj99/Leetcode/tree/master/0459-repeated-substring-pattern) |
