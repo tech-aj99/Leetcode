@@ -3,18 +3,23 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         map<int, int> mp;
 
-        // Store all numbers in the map
-        for (int i = 0; i < nums.size(); i++) {
+        // store all elements in map
+        for(int i=0;i<nums.size();i++){
             mp[nums[i]]++;
         }
-
-        // Check from 1 onwards
-        for (int i = 1; i <= nums.size() + 1; i++) {
-            if (mp.find(i) == mp.end()) {
-                return i;
+        int expected = 1;
+        // Traverse the map
+        for(auto it : mp){
+            if(it.first <= 0){
+                continue;
+            }
+            if(it.first == expected){
+                expected++;
+            }
+            else if(it.first > expected){
+                return expected;
             }
         }
-
-        return nums.size() + 1;
+        return expected;
     }
 };
