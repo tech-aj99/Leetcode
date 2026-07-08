@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tech-aj99/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/tech-aj99/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tech-aj99/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tech-aj99/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
