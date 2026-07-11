@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tech-aj99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/tech-aj99/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/tech-aj99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tech-aj99/Leetcode/tree/master/0724-find-pivot-index) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
