@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tech-aj99/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
@@ -156,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
