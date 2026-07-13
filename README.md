@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/tech-aj99/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tech-aj99/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tech-aj99/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tech-aj99/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/tech-aj99/Leetcode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
