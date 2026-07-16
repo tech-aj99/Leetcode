@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/tech-aj99/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/tech-aj99/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tech-aj99/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tech-aj99/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/tech-aj99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
