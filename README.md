@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tech-aj99/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tech-aj99/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tech-aj99/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/tech-aj99/Leetcode/tree/master/0567-permutation-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tech-aj99/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tech-aj99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/tech-aj99/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tech-aj99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tech-aj99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tech-aj99/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
 | [0791-custom-sort-string](https://github.com/tech-aj99/Leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/tech-aj99/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tech-aj99/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
