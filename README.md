@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tech-aj99/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tech-aj99/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/tech-aj99/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/tech-aj99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -255,9 +256,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tech-aj99/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tech-aj99/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tech-aj99/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tech-aj99/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
