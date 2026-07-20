@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/tech-aj99/Leetcode/tree/master/0916-word-subsets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/tech-aj99/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/tech-aj99/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tech-aj99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/tech-aj99/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/tech-aj99/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2390-removing-stars-from-a-string) |
