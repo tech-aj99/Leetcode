@@ -1,20 +1,64 @@
 class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
-        long long ans = 0;
         int n = nums.size();
+        long long minsum = 0, maxsum = 0;
 
-        for(int i=0;i<nums.size();i++){
-            int mn = nums[i];
-            int mx = nums[i];
+        vector<int> left(n), right(n);
+        stack<int> st;
 
-            for(int j=i;j<n;j++){
-                mn = min(mn, nums[j]);
-                mx = max(mx, nums[j]);
-
-                ans += (mx - mn);
+        // Minimum
+        // Previous smaller
+        for(int i=0;i<n;i++){
+            while(!st.empty() && nums[st.top()] > nums[i]){
+                st.pop();
             }
+            left[i] = st.empty() ? i + 1 : i - st.top();
+            st.push(i);
         }
-        return ans;
+
+        while(!st.empty()) st.pop();
+
+        // Next Smaller
+        for(int i = n-1;i>=0;i--){
+            while(!st.empty() && nums[st.top()] >= nums[i]){
+                st.pop();
+            }
+            right[i] = st.empty() ? n - i : st.top() -i;
+            st.push(i);
+        }
+
+        for(int i=0;i<n;i++){
+            minsum += 1LL * nums[i] * left[i] * right[i];
+        }
+
+        // ---------- Maximum ----------
+
+        while(!st.empty()) st.pop();
+
+        // Previous greater
+        for(int i = 0; i < n; i++) {
+            while(!st.empty() && nums[st.top()] < nums[i])
+                st.pop();
+
+            left[i] = st.empty() ? i + 1 : i - st.top();
+            st.push(i);
+        }
+
+        while(!st.empty()) st.pop();
+
+        // Next greater
+        for(int i = n - 1; i >= 0; i--) {
+            while(!st.empty() && nums[st.top()] <= nums[i])
+                st.pop();
+
+            right[i] = st.empty() ? n - i : st.top() - i;
+            st.push(i);
+        }
+
+        for(int i = 0; i < n; i++)
+            maxsum += 1LL * nums[i] * left[i] * right[i];
+
+        return maxsum - minsum;
     }
 };
