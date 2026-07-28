@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tech-aj99/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tech-aj99/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tech-aj99/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tech-aj99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tech-aj99/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tech-aj99/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/tech-aj99/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tech-aj99/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3866-first-unique-even-element](https://github.com/tech-aj99/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
