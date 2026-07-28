@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/tech-aj99/Leetcode/tree/master/0670-maximum-swap) |
 | [0899-orderly-queue](https://github.com/tech-aj99/Leetcode/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tech-aj99/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1492-the-kth-factor-of-n](https://github.com/tech-aj99/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tech-aj99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/tech-aj99/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tech-aj99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
