@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tech-aj99/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/tech-aj99/Leetcode/tree/master/0670-maximum-swap) |
 | [0899-orderly-queue](https://github.com/tech-aj99/Leetcode/tree/master/0899-orderly-queue) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tech-aj99/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/tech-aj99/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/tech-aj99/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/tech-aj99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tech-aj99/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/tech-aj99/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
@@ -388,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/tech-aj99/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tech-aj99/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
