@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tech-aj99/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/tech-aj99/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/tech-aj99/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -424,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tech-aj99/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/tech-aj99/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
