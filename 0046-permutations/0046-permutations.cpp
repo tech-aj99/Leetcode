@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    
 
     void solve(vector<int>& nums, int index){
         if(index == nums.size()){
