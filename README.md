@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tech-aj99/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tech-aj99/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/tech-aj99/Leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/tech-aj99/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/tech-aj99/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tech-aj99/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tech-aj99/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tech-aj99/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/tech-aj99/Leetcode/tree/master/0077-combinations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tech-aj99/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tech-aj99/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
