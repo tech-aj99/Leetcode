@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tech-aj99/Leetcode/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/tech-aj99/Leetcode/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tech-aj99/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/tech-aj99/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/tech-aj99/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tech-aj99/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/tech-aj99/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/tech-aj99/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tech-aj99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tech-aj99/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tech-aj99/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/tech-aj99/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tech-aj99/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/tech-aj99/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tech-aj99/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -428,14 +432,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tech-aj99/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
