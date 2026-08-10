@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tech-aj99/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tech-aj99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tech-aj99/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tech-aj99/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tech-aj99/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tech-aj99/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tech-aj99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tech-aj99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/tech-aj99/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tech-aj99/Leetcode/tree/master/0217-contains-duplicate) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tech-aj99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tech-aj99/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tech-aj99/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tech-aj99/Leetcode/tree/master/0046-permutations) |
@@ -471,6 +475,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/tech-aj99/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tech-aj99/Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/tech-aj99/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
