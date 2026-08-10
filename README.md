@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/tech-aj99/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tech-aj99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tech-aj99/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
@@ -441,16 +443,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tech-aj99/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -492,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tech-aj99/Leetcode/tree/master/0022-generate-parentheses) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
