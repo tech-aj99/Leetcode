@@ -489,14 +489,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Algorithm X
 |  |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/tech-aj99/Leetcode/tree/master/1510-stone-game-iv) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
