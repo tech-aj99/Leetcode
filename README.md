@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/tech-aj99/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/tech-aj99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tech-aj99/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/tech-aj99/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -492,11 +494,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/tech-aj99/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 ## Segment Tree
 |  |
