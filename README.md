@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tech-aj99/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/tech-aj99/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tech-aj99/Leetcode/tree/master/0733-flood-fill) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tech-aj99/Leetcode/tree/master/0733-flood-fill) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tech-aj99/Leetcode/tree/master/0547-number-of-provinces) |
 ## Segment Tree
