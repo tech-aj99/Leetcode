@@ -8,16 +8,13 @@ public:
             mp[num]++;
         }
 
-        vector<int> temp;
-        for(int i=1;i<=n+1;i++){
-            temp.push_back(i * k);
-        }
+        for(int i = 1; i <= n+1; i++){
+            int multiple = i * k;
 
-        for(int i =0;i<temp.size();i++){
-            if(mp.find(temp[i]) == mp.end()){
-                return temp[i];
+            if(mp.find(multiple) == mp.end()){
+                return multiple;
             }
         }
-        return -1;
+        return -1;   
     }
 };
