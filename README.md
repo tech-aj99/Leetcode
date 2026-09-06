@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tech-aj99/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/tech-aj99/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/tech-aj99/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/tech-aj99/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tech-aj99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/tech-aj99/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/tech-aj99/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-aj99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tech-aj99/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0403-frog-jump](https://github.com/tech-aj99/Leetcode/tree/master/0403-frog-jump) |
