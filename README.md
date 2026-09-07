@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/tech-aj99/Leetcode/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/tech-aj99/Leetcode/tree/master/0899-orderly-queue) |
 | [0916-word-subsets](https://github.com/tech-aj99/Leetcode/tree/master/0916-word-subsets) |
+| [0940-distinct-subsequences-ii](https://github.com/tech-aj99/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tech-aj99/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tech-aj99/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tech-aj99/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tech-aj99/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/tech-aj99/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/tech-aj99/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tech-aj99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
