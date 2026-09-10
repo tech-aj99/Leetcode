@@ -1,43 +1,32 @@
 class Solution {
 public:
-    int getSum(TreeNode* root){
-        if(root == NULL){
-            return 0;
-        }
-        return root->val + getSum(root->left) + getSum(root->right);
-    }
+    int result;
 
-    int getCount(TreeNode* root){
+    pair<int, int> solve(TreeNode* root){
         if(root == NULL){
-            return 0;
+            return {0, 0};
         }
-        return 1 + getCount(root->left) + getCount(root->right);
-    }
 
-    void dfs(TreeNode* root, int &ans){
-        if(root == NULL){
-            return;
-        }
-        
-        int sum = getSum(root);
-        int count = getCount(root);
+        auto p1 = solve(root->left);
+        auto p2 = solve(root->right);
 
-        int avg = sum / count;
+        int totalSum = p1.first + p2.first + root->val;
+        int totalCount = p1.second + p2.second + 1;
+
+        int avg = totalSum / totalCount;
 
         if(avg == root->val){
-            ans++;
+            result++;
         }
 
-        dfs(root->left, ans);
-        dfs(root->right, ans);
+        return {totalSum, totalCount};
     }
-
-
+    
     int averageOfSubtree(TreeNode* root) {
-        int ans = 0;
+        result = 0;
 
-        dfs(root, ans);
+        solve(root);
 
-        return ans;
+        return result;        
     }
 };
