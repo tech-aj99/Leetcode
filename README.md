@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tech-aj99/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/tech-aj99/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tech-aj99/Leetcode/tree/master/0060-permutation-sequence) |
 | [0168-excel-sheet-column-title](https://github.com/tech-aj99/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tech-aj99/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tech-aj99/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tech-aj99/Leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/tech-aj99/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/tech-aj99/Leetcode/tree/master/0231-power-of-two) |
