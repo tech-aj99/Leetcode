@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tech-aj99/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/tech-aj99/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/tech-aj99/Leetcode/tree/master/0670-maximum-swap) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/tech-aj99/Leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/tech-aj99/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/tech-aj99/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tech-aj99/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/tech-aj99/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
