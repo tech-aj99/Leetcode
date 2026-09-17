@@ -4,30 +4,24 @@ public:
         int n = img1.size();
         int ans = 0;
 
-        // Try every possible shift
-        for (int dx = -(n - 1); dx <= n - 1; dx++) {
-            for (int dy = -(n - 1); dy <= n - 1; dy++) {
+        for(int dx = -n+1; dx <= n-1; dx++){
+            for(int dy = -n+1; dy <= n-1; dy++){
+                int overlap = 0;
 
-                int count = 0;
-
-                for (int i = 0; i < n; i++) {
-                    for (int j = 0; j < n; j++) {
+                for(int i=0;i<n;i++){
+                    for(int j=0;j<n;j++){
 
                         int x = i + dx;
                         int y = j + dy;
 
-                        if (x >= 0 && x < n && y >= 0 && y < n) {
-                            if (img1[i][j] == 1 && img2[x][y] == 1) {
-                                count++;
-                            }
+                        if(x >= 0  && x < n && y >= 0 && y < n && img1[i][j] == 1 && img2[x][y] == 1){
+                            overlap++;
                         }
                     }
                 }
-
-                ans = max(ans, count);
+                ans = max(ans, overlap);
             }
         }
-
         return ans;
     }
 };
