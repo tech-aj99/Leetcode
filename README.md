@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tech-aj99/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tech-aj99/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tech-aj99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/tech-aj99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tech-aj99/Leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/tech-aj99/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/tech-aj99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/tech-aj99/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/tech-aj99/Leetcode/tree/master/0168-excel-sheet-column-title) |
