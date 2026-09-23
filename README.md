@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tech-aj99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tech-aj99/Leetcode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tech-aj99/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/tech-aj99/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tech-aj99/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tech-aj99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/tech-aj99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tech-aj99/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tech-aj99/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tech-aj99/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tech-aj99/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/tech-aj99/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/tech-aj99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
 | [1512-number-of-good-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tech-aj99/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tech-aj99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tech-aj99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
 |  |
@@ -796,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tech-aj99/Leetcode/tree/master/0493-reverse-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
