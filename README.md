@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tech-aj99/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/tech-aj99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/tech-aj99/Leetcode/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/tech-aj99/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/tech-aj99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/tech-aj99/Leetcode/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/tech-aj99/Leetcode/tree/master/0899-orderly-queue) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/tech-aj99/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/tech-aj99/Leetcode/tree/master/0796-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
