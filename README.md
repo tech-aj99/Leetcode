@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tech-aj99/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tech-aj99/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tech-aj99/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tech-aj99/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tech-aj99/Leetcode/tree/master/0326-power-of-three) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/tech-aj99/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tech-aj99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/tech-aj99/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/tech-aj99/Leetcode/tree/master/0217-contains-duplicate) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/tech-aj99/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tech-aj99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tech-aj99/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/tech-aj99/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tech-aj99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tech-aj99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -819,4 +823,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tech-aj99/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tech-aj99/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
