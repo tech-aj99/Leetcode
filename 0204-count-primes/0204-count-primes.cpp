@@ -1,36 +1,29 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if (n <= 2) return 0;
+        if(n <= 2) return 0;
 
-        // Only store odd numbers
-        vector<bool> isPrime(n, true);
+        vector<char> prime(n, true);
+        
+        prime[0] = false;
+        prime[1] = false;
 
-        isPrime[0] = false;
-        isPrime[1] = false;
-
-        // 2 is the only even prime
         int count = 1;
 
-        for (int i = 3; i * i < n; i += 2) {
-
-            if (isPrime[i]) {
-
-                // Start from i*i
-                // Only visit odd multiples
-                for (int j = i * i; j < n; j += 2 * i) {
-                    isPrime[j] = false;
+        for(int i=3;i * i < n;i+=2){
+            if(prime[i] == true){
+                for(int j = i * i; j < n; j += 2 * i){
+                    prime[j] = false;
                 }
             }
         }
 
-        // Count odd primes
-        for (int i = 3; i < n; i += 2) {
-            if (isPrime[i]) {
+
+        for(int i=3;i<n;i+=2){
+            if(prime[i] == true){
                 count++;
             }
         }
-
         return count;
     }
 };
