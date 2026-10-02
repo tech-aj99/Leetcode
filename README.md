@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tech-aj99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tech-aj99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tech-aj99/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/tech-aj99/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tech-aj99/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/tech-aj99/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tech-aj99/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tech-aj99/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/tech-aj99/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/tech-aj99/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tech-aj99/Leetcode/tree/master/0060-permutation-sequence) |
 | [0168-excel-sheet-column-title](https://github.com/tech-aj99/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tech-aj99/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/tech-aj99/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/tech-aj99/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/tech-aj99/Leetcode/tree/master/0498-diagonal-traverse) |
