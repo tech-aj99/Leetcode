@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tech-aj99/Leetcode/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tech-aj99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tech-aj99/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tech-aj99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/tech-aj99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tech-aj99/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tech-aj99/Leetcode/tree/master/0200-number-of-islands) |
@@ -832,10 +834,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tech-aj99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tech-aj99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tech-aj99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tech-aj99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
