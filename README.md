@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tech-aj99/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/tech-aj99/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-word-subsets](https://github.com/tech-aj99/Leetcode/tree/master/0916-word-subsets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tech-aj99/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/tech-aj99/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tech-aj99/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/tech-aj99/Leetcode/tree/master/0994-rotting-oranges) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/tech-aj99/Leetcode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/tech-aj99/Leetcode/tree/master/0859-buddy-strings) |
 | [0916-word-subsets](https://github.com/tech-aj99/Leetcode/tree/master/0916-word-subsets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tech-aj99/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/tech-aj99/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/tech-aj99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tech-aj99/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tech-aj99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tech-aj99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/tech-aj99/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tech-aj99/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tech-aj99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tech-aj99/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tech-aj99/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tech-aj99/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/tech-aj99/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/tech-aj99/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/tech-aj99/Leetcode/tree/master/1732-find-the-highest-altitude) |
