@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tech-aj99/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tech-aj99/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tech-aj99/Leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/tech-aj99/Leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tech-aj99/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/tech-aj99/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-aj99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/tech-aj99/Leetcode/tree/master/0203-remove-linked-list-elements) |
