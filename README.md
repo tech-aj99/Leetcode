@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/tech-aj99/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tech-aj99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tech-aj99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/tech-aj99/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tech-aj99/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tech-aj99/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tech-aj99/Leetcode/tree/master/0735-asteroid-collision) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tech-aj99/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/tech-aj99/Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tech-aj99/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/tech-aj99/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tech-aj99/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tech-aj99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
