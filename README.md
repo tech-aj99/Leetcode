@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tech-aj99/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/tech-aj99/Leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/tech-aj99/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tech-aj99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tech-aj99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/tech-aj99/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tech-aj99/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tech-aj99/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tech-aj99/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tech-aj99/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tech-aj99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tech-aj99/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tech-aj99/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/tech-aj99/Leetcode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/tech-aj99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tech-aj99/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tech-aj99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tech-aj99/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tech-aj99/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
