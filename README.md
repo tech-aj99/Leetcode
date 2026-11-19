@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/tech-aj99/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tech-aj99/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tech-aj99/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tech-aj99/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/tech-aj99/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tech-aj99/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tech-aj99/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tech-aj99/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tech-aj99/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/tech-aj99/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tech-aj99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tech-aj99/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/tech-aj99/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/tech-aj99/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/tech-aj99/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tech-aj99/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/tech-aj99/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tech-aj99/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tech-aj99/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tech-aj99/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tech-aj99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tech-aj99/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tech-aj99/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2785-sort-vowels-in-a-string](https://github.com/tech-aj99/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tech-aj99/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tech-aj99/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
